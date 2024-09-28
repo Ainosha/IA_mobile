@@ -3,7 +3,7 @@
 Code de Orlando Chuquimia modifié : https://github.com/OrlandoChuquimia/IA_mobile/tree/dev
 Ajoute dans le dossier image-classification de la fonctionalité Camera à l'application pour les faire fonctionner ensemble.
 
-## Code Change
+## Code Modifié 
 Voici les Changement:
 ### Fonction classification
 Modification de la fonction de classification pour ajoute de L'URL de file systeme
