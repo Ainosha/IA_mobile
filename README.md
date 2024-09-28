@@ -18,4 +18,4 @@ Ajoute d'affichage de l'image après prise de photo
 ![image](https://github.com/user-attachments/assets/a37ab7d9-5c12-4e92-863d-4dc1910a7d0d)
 
 ## Interface exemple
-![image](https://github.com/user-attachments/assets/5d7ea797-54a6-4a37-9767-0010b4fa7129)
+<img src ="https://github.com/user-attachments/assets/5d7ea797-54a6-4a37-9767-0010b4fa7129" within="300" >
